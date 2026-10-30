@@ -25,9 +25,11 @@ This folder contains the V-Dem dataset. The "aggregatevar.do" file generates and
 ### 1e. Folder: IVS second-generation immigrants 
 The "country_origin.do" generates the historical values from the country of origin of second-generation immigrants used in the analysis. It also generates the dataset with social trust averaged by waves 1-3 and waves 4-7
 
+## 2. FOLDER "Empirical Analysis" 
 
+This folder contains all the necessary folders to replicate the empirical analysis.
 
-## 2. FOLDER "datasets"
+### 2. FOLDER "datasets"
 
 The folder contains the cleaned datasets generated using the code and data from the folder "Data". The list of datasets that should appear in the Folder "datasets" to run the code correctly is presented below together with the name used in the code and a brief description of each dataset:
 
