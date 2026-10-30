@@ -14,10 +14,10 @@ This folder contains information on how to download/clean the different raw data
 This folder contains the three waves from the European Social Survey: "ESS3.dta," "ESS6.dta," and "ESS7.dta." The do-file "merging.do" appends the three waves to a single file, generating the final dataset "ESS367.dta," which appears in the "datasets" folder after you run "merging.do".
 
 ### 1b. Folder: Geographic distance 
-This folder contains data about geographic distance. The "distance.do" file keeps information to compute the distance from the capital.
+This folder contains data about geographic distance. The "distance.do" file computes the distance from the capital.
 
 ### 1c. Folder: Hofstede 
-This folder contains the dataset with Hofstede's cultural dimensions. The "Hofstede.do" file transforms the data from .csv to .dta and assigns the different countries an ISO2 code.
+This folder contains the dataset with Hofstede's cultural dimensions. The "Hofstede.do" file converts the data from .csv to .dta and assigns each country an ISO2 code.
 
 ### 1d. Folder: V-Dem-CY-FullOthers_STATA_v13
 This folder contains the V-Dem dataset. The "aggregatevar.do" file generates and keeps the variables of interest.
