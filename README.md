@@ -11,7 +11,7 @@ All the data sources are publicly available and cited in the main paper. Data mu
 This folder contains information on how to download/clean the different raw data used to build the final datasets used in the analysis. The raw data are organised in five folders. Each folder contains files to generate the intermediate (or `cleaned') datasets and a README file explaining how to download the raw data by providing a citation (with link or DOI where available). A summary of the content of each folder can be found below:
 
 ### 1a. Folder: ESS
-This folder contains the three waves from the European Social Survey: "ESS3.dta," "ESS6.dta," and "ESS7.dta." The do.file "merging.do" appends the three waves to a unique file generating the final dataset "ESS367.dta," which also appears in the folder "datasets."
+This folder contains the three waves from the European Social Survey: "ESS3.dta," "ESS6.dta," and "ESS7.dta." The do-file "merging.do" appends the three waves to a single file, generating the final dataset "ESS367.dta," which appears in the "datasets" folder after you run "merging.do".
 
 ### 1b. Folder: Geographic distance 
 This folder contains data about geographic distance. The "distance.do" file keeps information to compute the distance from the capital.
