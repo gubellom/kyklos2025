@@ -29,7 +29,7 @@ The "country_origin.do" generates the historical values from the country of orig
 
 ## 2. FOLDER "datasets"
 
-The folder contains the cleaned datasets from Folder "Data"
+The folder contains the cleaned datasets generated using the code and data from the folder "Data". The list of datasets that should appear in the Folder "datasets" to run the code correctly is presented below together with the name used in the code and a brief description of each dataset:
 
 2a. "ESS367.dta" is the dataset with all the ESS waves appended.
 
