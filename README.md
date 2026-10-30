@@ -3,7 +3,7 @@ Stata Replication package for: "Inherited Social Trust and Depression Among Seco
 
 Stata version: 18.
 
-All the data sources are publicly available and cited in the main paper. Data must be downloaded to replicate the code. The package contains two main folders:
+All the data sources are publicly available and cited in the main paper. Data must be downloaded to replicate the code. The package contains two main folders and their relative subfolders:
 
 
 ## A. FOLDER "Data" 
